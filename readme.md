@@ -75,4 +75,4 @@ for div_item in tqdm(movies): #we are gonna loop all the div found earlier
     header = div.findChildren('h3', attrs={'class': 'lister-item-header'}) # and finnaly we get the title of the movie
 
 ```
-and that's how you scrape the website feel free to add to the code if you like 
+and that's how you scrape the website feel free to add to the code if you like and yeah can you check also my case study on netflix [check my case study on netflix ](https://github.com/Abdessamad-Y/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
